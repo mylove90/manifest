@@ -8,6 +8,9 @@
            fetch="https://github.com/Project-Xtended"
            revision="xt" />
 
+  <remote  name="lineage"
+	  fetch="https://github.com/LineageOS" />
+
   <!-- General Repos -->
   <project path="manifest" name="manifest" remote="xtended" />
   <project path="art" name="art" remote="xtended" />
@@ -59,15 +62,13 @@
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="xtended" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="xtended" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="xtended" />
+  <project path="packages/apps/CertInstaller" name="android_packages_apps_CertInstaller" remote="lineage" />
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="xtended" />
   <project path="system/update_engine" name="system_update_engine" remote="xtended" /> 
   <project path="system/core" name="system_core" remote="xtended" />
-  
-  <!-- Vendor Repos -->
+
   <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
-  <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="xtended" />
-  <project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" remote="xtended" />
-  
+
 </manifest>
