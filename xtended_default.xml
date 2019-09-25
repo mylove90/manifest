@@ -61,7 +61,7 @@
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="xtended" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="xtended" />
   <project path="packages/apps/Settings" name="packages_apps_Settings"  remote="xtended" />
-  <project path="packages/apps/trebuchet" name="packages_apps_Trebuchet" remote="xtended" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="xtended"/>
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="xtended" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="xtended" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="xtended" />
