@@ -44,6 +44,7 @@
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="xtended" />
   <project path="hardware/interfaces" name="hardware_interfaces" remote="xtended" />
   <project path="hardware/xtended/interfaces" name="hardware_xtended_interfaces" remote="xtended" />
+  <project path="hardware/ril" name="hardware_ril" remote="xtended" />
 
   <!-- External repos -->
   <project path="external/skia" name="external_skia" remote="xtended" />
