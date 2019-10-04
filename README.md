@@ -6,7 +6,7 @@ A ROM Based on AOSP, with features from almost all Custom ROMs available.
 To initialize your local repository, use this command:
 -----------------------------------------------------
 
-    repo init -u https://github.com/Project-Xtended/manifest.git -b xt
+    repo init -u https://github.com/Project-Xtended/manifest.git -b xq
 
 To sync the repository, use this command:
 -----------------------------------------

@@ -6,7 +6,7 @@
 
   <remote  name="xtended"
            fetch="https://github.com/Project-Xtended"
-           revision="xt" />
+           revision="xq" />
 
   <remote  name="lineage"
 	  fetch="https://github.com/LineageOS" />
