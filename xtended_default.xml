@@ -83,6 +83,7 @@
   <project path="system/sepolicy" name="system_sepolicy" remote="xtended" />
   <project path="system/update_engine" name="system_update_engine" remote="xtended" /> 
   <project path="system/vold" name="system_vold" remote="xtended" />
+  <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="lineage" revision="lineage-17.0" />
 
   <!-- Vendor Repo -->
   <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
