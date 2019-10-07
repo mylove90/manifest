@@ -105,5 +105,7 @@
   <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="android_vendor_nxp_opensource_packages_apps_Nfc" remote="lineage" revision="lineage-17.0" />
   <project path="vendor/nxp/opensource/pn5xx/halimpl" name="android_vendor_nxp_opensource_halimpl" remote="lineage" revision="lineage-17.0-pn5xx" />
   <project path="vendor/nxp/opensource/pn5xx/hidlimpl" name="android_vendor_nxp_opensource_hidlimpl" remote="lineage" revision="lineage-17.0-pn5xx" />
+  <project path="hardware/nxp/nfc" name="android_hardware_nxp_nfc" remote="lineage" revision="lineage-17.0" />
+  <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="lineage" revision="lineage-17.0" />
 
 </manifest>
