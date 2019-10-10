@@ -36,8 +36,10 @@
   <project path="frameworks/av" name="frameworks_av" remote="xtended" />
   <project path="frameworks/base" name="frameworks_base" remote="xtended" />
   <project path="frameworks/native" name="frameworks_native" remote="xtended" />
+  <project path="frameworks/rs" name="frameworks_rs" remote="xtended" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="xtended" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="xtended" />
+  <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="xtended" />
 
   <!-- Device Repos -->
   <project path="device/xtended/sepolicy" name="device_xtended_sepolicy" remote="xtended" />
@@ -52,28 +54,32 @@
 
   <!-- External repos -->
   <project path="external/skia" name="external_skia" remote="xtended" />
-  <project path="external/selinux" name="android_external_selinux" remote="lineage" revision="lineage-17.0" />
+  <project path="external/selinux" name="external_selinux" remote="xtended" />
   <project path="external/sqlite" name="external_sqlite" remote="xtended" />
   <project path="external/tinycompress" name="external_tinycompress" remote="xtended" />
 
   <!-- Packages Repos -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="xtended" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="xtended" />
+  <project path="packages/apps/CertInstaller" name="packages_apps_CertInstaller" remote="xtended" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="xtended" />
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="xtended" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="xtended" /> 
   <project path="packages/apps/Eleven" name="packages_apps_Eleven" remote="xtended" /> 
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="xtended" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="xtended"/>
+  <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="xtended" />
+  <project path="packages/apps/MusicFX" name="packages_apps_MusicFX" remote="xtended" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="xtended" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="xtended" />
   <project path="packages/apps/Settings" name="packages_apps_Settings"  remote="xtended" />
-  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="xtended"/>
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="xtended" />
+  <project path="packages/apps/Xtensions" name="packages_apps_Xtensions" remote="xtended"/>
+  <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="xtended" />
+  <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="xtended" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="xtended" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="xtended" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="xtended" />
-  <project path="packages/apps/CertInstaller" name="android_packages_apps_CertInstaller" remote="lineage" revision="lineage-17.0" />
-  <project path="packages/apps/Xtensions" name="packages_apps_Xtensions" remote="xtended"/>
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="xtended" />
@@ -90,12 +96,12 @@
   <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="xtended" />
   <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="xtended" />
+  <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="xtended" />
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="vendor_qcom_opensource_data-ipa-cfg-mgr" remote="xtended" />
   <project path="vendor/qcom/opensource/dataservices" name="vendor_qcom_opensource_dataservices" remote="xtended" />
+  <project path="vendor/qcom/opensource/fm-commonsys" name="vendor_qcom_opensource_fm-commonsys" remote="xtended"/>
   <project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" remote="xtended" />
-  <project path="vendor/qcom/opensource/thermal-engine" name="vendor_qcom_opensource_thermal-engine" remote="xtended" />
-  <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" groups="qcom,pdk-qcom" remote="xtended" />
-  <project path="vendor/qcom/opensource/fm-commonsys" name="vendor_qcom_opensource_fm-commonsys" groups="qcom,qcom_fm" remote="xtended"/>
-  <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" groups="qcom,pdk-qcom" remote="xtended" />
+  <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" remote="xtended" />
+  <project path="vendor/qcom/opensource/thermal-engine" name="vendor_qcom_opensource_thermal-engine" remote="xtended" /> 
 
 </manifest>
