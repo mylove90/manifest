@@ -103,5 +103,9 @@
   <project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" remote="xtended" />
   <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" remote="xtended" />
   <project path="vendor/qcom/opensource/thermal-engine" name="vendor_qcom_opensource_thermal-engine" remote="xtended" /> 
+  
+  <!--Prebuilts -->
+  <project path="prebuilts/tools-xtended" name="prebuilts_tools-xtended" remote="xtended" clone-depth="1" />	
+ 
 
 </manifest>
