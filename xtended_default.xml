@@ -80,6 +80,7 @@
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="xtended" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="xtended" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="xtended" />
+  <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="xtended" />
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="xtended" />
