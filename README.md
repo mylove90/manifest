@@ -1,7 +1,10 @@
+![Project MSM-XTENDED](https://raw.githubusercontent.com/Project-Xtended/manifest/xq/template_Head.png)
+-------------------------------------------------------------------------------------------------------
+
 Project-Xtended:
 ====================
-
 A ROM Based on AOSP, with features from almost all Custom ROMs available.
+
 
 To initialize your local repository, use this command:
 -----------------------------------------------------
