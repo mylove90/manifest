@@ -73,7 +73,6 @@
   <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="xtended" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="xtended" /> 
   <project path="packages/apps/Eleven" name="packages_apps_Eleven" remote="xtended" /> 
-  <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="xtended" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="xtended"/>
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="xtended" />
   <project path="packages/apps/MusicFX" name="packages_apps_MusicFX" remote="xtended" />
@@ -84,6 +83,7 @@
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="xtended" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="xtended" />
   <project path="packages/apps/Xtensions" name="packages_apps_Xtensions" remote="xtended"/>
+  <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="xtended"/>
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="xtended" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="xtended" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="xtended" />
