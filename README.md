@@ -27,6 +27,6 @@ Apply for official maintainership [**HERE**](https://forms.gle/D9WPbBcbeVFiBMJb7
 
 ---------------------------------------------------------------------------------------------------------
 
-Thread template refer [**HERE**](https://github.com/Project-Xtended/manifest/blob/xp/Thread_Template.txt)
+Thread template refer [**HERE**](https://github.com/Project-Xtended/manifest/blob/xq/Thread_template.txt)
 
 ---------------------------------------------------------------------------------------------------------
