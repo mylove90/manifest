@@ -14,7 +14,7 @@ To initialize your local repository, use this command:
 To sync the repository, use this command:
 -----------------------------------------
 
-    repo sync -f -c -j8 --force-sync --no-clone-bundle --no-tags
+    repo sync --force-sync --no-tags --no-clone-bundle
 
 To Build, use following commands:
 ---------------------------------
