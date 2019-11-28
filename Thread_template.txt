@@ -25,31 +25,21 @@
 [*]Vibrator Strength
 [*]Display Calibration (Kcal)
 [*]Panel Modes
-[*]High Brightness Mode[/list]
+[*]High Brightness Mode
+[*]DC Dimmer[/list]
 
 [B][COLOR="#1976D2"][U]Settings[/U][/COLOR][/B][list]
 
 [*]Redesigned Battery Meter View
 [*]Reset battery stats
-[*]Screenshot sound toggle
+[*]Screenshot sound 
 [*]Sim 1 & 2 Ringtone
 [*]Quick Unlock
 [/list]
 
 [COLOR="#1976D2"][B][U]===> Xtended Options (Xtensions of Xtended) Includes <===[/U][/B][/COLOR]
 
-[B][COLOR="#1976D2"][U]Animations[/U][/COLOR][/B][list]
-
-[*]System Wide Animations (15 Options + Random)
-[*]Animation Duration
-[*]Disable Transition animations
-[*]Scrolling Cache
-[*]Screen Off animation
-[*]Power menu animation
-[*]Toast Animation
-[*]Listview & Interpolator Animations[/list]
-
-[B][COLOR="#1976D2"][U]Buttons [/U][/COLOR][/B][list]
+[B][COLOR="#1976D2"][U]Buttons[/U][/COLOR][/B][list]
 
 [*]Volume Key Customization (Call Answer, Cursor Control, Reorient & Music Control)
 [*]Disable Keys
@@ -58,11 +48,14 @@
 [*]Single Press + Long Press + Double Tap Customizations
 [*]Accidental Touch[/list]
 
-[B][COLOR="#1976D2"][U]Decoration Menu[/U][/COLOR][/B][list]
-
+[B][COLOR="#1976D2"][U]Decor Room[/U][/COLOR][/B][list]
+[*]Ambient Display
+[*]Animations	
+[*]Battery Styles
 [*]Clock Settings
-[*]Carrier Label (Font Style, Size & Color Options)
-[/list]
+[*]Carrier Label
+[*]Statusbar Logo
+[*]Statusbar Weather[/list]
 
 [B][COLOR="#1976D2"][U]Gestures[/U][/COLOR][/B][list]
 
@@ -76,56 +69,82 @@
 [*]Lockscreen Weather Temp & City
 [*]Lockscreen Weather Condition Image
 [*]Lockscreen charging info
-[/list]
+[*]Double Tap to sleep (lockscreen, Statusbar)[/list]
 
 [B][COLOR="#1976D2"][U]Navigations[/U][/COLOR][/B][list]
 
-[*]Navbar Customization (Layout, extra button)[/list]
+[*]Enable Controls whether navbar is displayed
+[*]Navbar Tuner[/list]
 
 [B][COLOR="#1976D2"][U]Notifications[/U][/COLOR][/B][list]
 
 [*]Heads Up
+[*]Dialer HeadsUp
+[*]Noisy notification id screen on
 [*]Notification Light Customization
 [*]Battery & Charging Light Customization
-[*]Vibrate on connect, answer & hangup toggle
-[*]Toast app icon toggle
+[*]Ambient display brightness adjustment
+[*]Ambient notification display adjustment
+[*]Vibrate on connect, answer & hangup 
+[*]Toast app icon
 [*]Toast app icon color
 [*]Toast app text color[/list]
 
 [B][COLOR="#1976D2"][U]Powermenu[/U][/COLOR][/B][list]
 
 [*]Disable power menu on lockscreen
-[*]On-The-Go Toggle (worth mentioning)
+[*]On-The-Go(worth mentioning)
 [*]Advance Reboot
-[*]Several Toggles, can't write so many [/list] 
+[*]Several Toggles, can't write so many
 [*]Power Menu Animations[/list]
 
 [B][COLOR="#1976D2"][U]Quick Settings[/U][/COLOR][/B][list]
 
-[*]Brightness Slider toggle
-[*]Bightness icon toggle
-[*]Brightness buttons toggle
-[*]Brightness slider on bottom toggle [/list]
+[*]Columns Rows & Quickbar layout customizations
+[*]Tile title
+[*]Vibration on Touch 
+[*]Quick pulldown
+[*]System info
+[*]Brightness Slider
+[*]Bightness slider at bottom
+[*]Brightness Icon
+[*]Disable quick settings when locked[/list]
 
 [B][COLOR="#1976D2"][U]Status bar[/U][/COLOR][/B][list]
 
 [*]Statusbar items
 [*]Network Traffic
+[*]Show notification count
 [*]4G icon
-[*]Show notification icon
-[*]Breathing Notifications (SMS, Call & Voicemail)[/list]                                                                                   
+[*]VoLTE icon
+[*]Data disable icon
+[*]Bluwtooth battery status
+[*]Brightness controll
+[*]Kill app button
+[*]Breathing Notifications (SMS, Call & Voicemail)[/list]                                                                                
 
 [B][COLOR="#1976D2"][U]System[/U][/COLOR][/B][list]
 
 [*]Sensor block per-package
-[/list]
+[*]Smart Pixel
+[*]Wakelock blocker
+[*]Alarm blocker
+[*]Suspend actions
+[*]Time in state
+[*]Doze settings
+[*]Aggressive Battery
+[*]Sensor block per-package
+[*]pocket detection
+[*]ADB notification[/list]
+
 
 [B][COLOR="#1976D2"][U]Xtra Option[/U][/COLOR][/B][list]
 
-[*]Screenshot type
-[*]Allow Signature spoofing
+[*]Allow signature spoofing
+[*]Charging animation
 [*]Wake up on charge
 [*]Vibrate on plug/unplug
+[*]Screenshot type
 [*]Dashboard conditions
 [*]Dashboard suggestions
 [/list]
@@ -211,7 +230,7 @@
 
 [B]Kernel Source[/B] - [B][URL="MENTION_YOUR_KERNEL_SOURCES"]Kernel Sources[/URL][/B]
 
-[B]Device Tree Source[/B] - [B][URL="MENTION_YOUR_DT_SOURCES"]OnePlus3/T Device Tree[/URL][/B]
+[B]Device Tree Source[/B] - [B][URL="MENTION_YOUR_DT_SOURCES"]Device Tree[/URL][/B]
 
 [/LEFT][/QUOTE]
 
