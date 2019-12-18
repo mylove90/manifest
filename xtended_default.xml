@@ -109,6 +109,8 @@
   <project path="system/update_engine" name="system_update_engine" remote="xtended" /> 
   <project path="system/vold" name="system_vold" remote="xtended" />
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="lineage" revision="lineage-17.0" />
+  <project path="system/keymaster" name="system_keymaster" remote="xtended" />
+  
 
   <!-- Vendor Repo -->
   <project path="vendor/xtended" name="vendor_xtended" remote="xtended" />
