@@ -10,10 +10,7 @@
 	
   <remote  name="Xtended-Devices"
            fetch="https://github.com/Xtended-Devices"
-           revision="xq" />
-
-  <remote  name="lineage"
-	  fetch="https://github.com/LineageOS" />
+           revision="xq" />  
 
   <!-- General Repos -->
   <project path="manifest" name="manifest" remote="xtended" />
