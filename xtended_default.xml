@@ -19,7 +19,7 @@
   <project path="bootable/recovery" name="bootable_recovery" remote="xtended" />
 
   <!-- Build Repos -->
-  <project path="build/make" name="build" remote="xtended" >
+  <project path="build/make" name="build" remote="xtended" revision="r25" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -35,9 +35,9 @@
   <project path="build/blueprint" name="build_blueprint" groups="pdk,tradefed" remote="xtended" />
 
   <!-- Framework Repos -->
-  <project path="frameworks/av" name="frameworks_av" remote="xtended" />
-  <project path="frameworks/base" name="frameworks_base" remote="xtended" />
-  <project path="frameworks/native" name="frameworks_native" remote="xtended" />
+  <project path="frameworks/av" name="frameworks_av" remote="xtended" revision="r25" />
+  <project path="frameworks/base" name="frameworks_base" remote="xtended" revision="r25" />
+  <project path="frameworks/native" name="frameworks_native" remote="xtended" revision="r25" />
   <project path="frameworks/rs" name="frameworks_rs" remote="xtended" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="xtended" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="xtended" />
@@ -76,12 +76,12 @@
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="xtended" /> 
   <project path="packages/apps/Eleven" name="packages_apps_Eleven" remote="xtended" />
   <project path="packages/apps/Jelly" name="packages_apps_Jelly" remote="xtended" />
-  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="xtended"/>
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="xtended" revision="r25" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="xtended" />
   <project path="packages/apps/MusicFX" name="packages_apps_MusicFX" remote="xtended" />
-  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="xtended" />
+  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="xtended" revision="r25" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="xtended" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings"  remote="xtended" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings"  remote="xtended" revision="r25" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="xtended" />
   <project path="packages/apps/Snap" name="packages_apps_Snap"  remote="xtended" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="xtended" />
@@ -90,15 +90,15 @@
   <!--project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="xtended"/>-->
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="xtended" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="xtended" />
-  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="xtended" />
+  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="xtended" revision="r25" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="xtended" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="xtended" />
   <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="xtended" />
   <project path="packages/apps/Traceur" name="packages_apps_Traceur" groups="pdk-fs" remote="xtended" />
 
   <!-- System Repos -->
-  <project path="system/bt" name="system_bt" remote="xtended" />
-  <project path="system/core" name="system_core" remote="xtended" />
+  <project path="system/bt" name="system_bt" remote="xtended" revision="r25" />
+  <project path="system/core" name="system_core" remote="xtended" revision="r25" />
   <project path="system/libhidl" name="system_libhidl" remote="xtended" />
   <project path="system/media" name="system_media" remote="xtended" />
   <project path="system/netd" name="system_netd" remote="xtended" />
