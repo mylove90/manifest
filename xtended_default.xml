@@ -80,6 +80,7 @@
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="xtended" />
   <project path="packages/apps/MusicFX" name="packages_apps_MusicFX" remote="xtended" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="xtended" />
+  <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="xtended" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="xtended" />
   <project path="packages/apps/Settings" name="packages_apps_Settings"  remote="xtended" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="xtended" />
