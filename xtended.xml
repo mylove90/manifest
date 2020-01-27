@@ -6,7 +6,7 @@
     <project path="bionic" name="bionic" remote="xtended" />
     <project path="bootable/recovery" name="bootable_recovery" remote="xtended" />
     <project path="libcore" name="libcore"  remote="xtended" />
-    <project path="manifest" name="manifest" remote="xtended" />
+    <project path="manifest" name="manifest" remote="xtended" revision="xq-reb" />
     <project path="platform_testing" name="platform_testing" remote="xtended" />
 
     <!-- Build Repos -->
